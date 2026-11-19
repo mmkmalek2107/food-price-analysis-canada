@@ -1,2 +1,9 @@
 # food-price-analysis-canada
-project to analyze variation of grocery prices in canada from 2020 to 2026
+Projet d'analyse de l'évolution des prix alimentaires canadiens de 2020 à 2026.
+
+Technologies :
+
+SQL
+Excel
+Power Query
+Power BI
